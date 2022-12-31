@@ -53,6 +53,6 @@
 
 <br>
 <a href="#" target="_blank">
-  <img src="svg/quotes.svg" width="846" height="150" alt="phungquanghuy-official" />
+  <img src="svg/phungquanghuy-quotes.svg" width="846" height="150" alt="phungquanghuy-official" />
 </a>
 
