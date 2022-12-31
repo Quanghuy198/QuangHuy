@@ -1,6 +1,6 @@
-<!-- nguyentrongmanh -->
+
 <a href="#" target="_blank">
-  <img src="svg/nguyentrongmanh.svg" width="1200" alt="nguyentrongmanh-official" />
+  <img src="svg/phungquanghuy.svg" width="1200" alt="phungquanghuy-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
